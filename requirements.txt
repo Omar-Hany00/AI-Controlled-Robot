@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+Pillow>=10.0.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+requests>=2.31.0
+mujoco>=3.2.0
+glfw>=2.7.0
+tqdm>=4.66.0
+matplotlib>=3.8.0
+scikit-learn>=1.5.0

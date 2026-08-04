@@ -1,0 +1,1709 @@
+text,intent
+Forward,MOVE_FORWARD
+Go forward,MOVE_FORWARD
+Advance,MOVE_FORWARD
+Proceed,MOVE_FORWARD
+Drive forward,MOVE_FORWARD
+Move ahead,MOVE_FORWARD
+Head forward,MOVE_FORWARD
+Travel forward,MOVE_FORWARD
+Go straight,MOVE_FORWARD
+Move straight,MOVE_FORWARD
+Proceed straight,MOVE_FORWARD
+Drive straight,MOVE_FORWARD
+Head straight,MOVE_FORWARD
+Travel straight,MOVE_FORWARD
+Advance forward,MOVE_FORWARD
+Proceed ahead,MOVE_FORWARD
+Continue ahead,MOVE_FORWARD
+Go ahead,MOVE_FORWARD
+Move closer,MOVE_FORWARD
+Approach,MOVE_FORWARD
+Please move forward,MOVE_FORWARD
+Please go straight,MOVE_FORWARD
+Please advance,MOVE_FORWARD
+Please proceed ahead,MOVE_FORWARD
+Kindly drive forward,MOVE_FORWARD
+Could you move forward,MOVE_FORWARD
+Could you go straight,MOVE_FORWARD
+Would you mind moving forward,MOVE_FORWARD
+Can you advance the robot,MOVE_FORWARD
+I need you to move forward,MOVE_FORWARD
+I want you to go straight,MOVE_FORWARD
+Please continue moving straight,MOVE_FORWARD
+Keep going forward,MOVE_FORWARD
+Keep moving straight,MOVE_FORWARD
+Continue heading forward,MOVE_FORWARD
+Maintain forward momentum,MOVE_FORWARD
+Drive ahead slowly,MOVE_FORWARD
+Advance carefully,MOVE_FORWARD
+Proceed forward with caution,MOVE_FORWARD
+Go straight ahead,MOVE_FORWARD
+Move forward a little bit,MOVE_FORWARD
+Go forward just a bit,MOVE_FORWARD
+Advance slightly,MOVE_FORWARD
+Proceed a short distance forward,MOVE_FORWARD
+Drive forward a couple of inches,MOVE_FORWARD
+Move straight for a few feet,MOVE_FORWARD
+Go ahead by one meter,MOVE_FORWARD
+Advance forward by two meters,MOVE_FORWARD
+Drive forward five units,MOVE_FORWARD
+Move ahead ten centimeters,MOVE_FORWARD
+Slowly approach the target,MOVE_FORWARD
+Gently move forward,MOVE_FORWARD
+Gradually advance straight,MOVE_FORWARD
+Smoothly proceed forward,MOVE_FORWARD
+Initiate forward movement,MOVE_FORWARD
+Start moving forward,MOVE_FORWARD
+Begin advancing straight,MOVE_FORWARD
+Activate forward drive,MOVE_FORWARD
+Execute forward motion,MOVE_FORWARD
+Set direction to forward,MOVE_FORWARD
+Go forward until I say stop,MOVE_FORWARD
+Keep driving straight until further notice,MOVE_FORWARD
+Continue advancing until you reach the wall,MOVE_FORWARD
+Move straight until the path ends,MOVE_FORWARD
+Proceed forward until an obstacle is detected,MOVE_FORWARD
+Drive forward continuously,MOVE_FORWARD
+Advance forward indefinitely,MOVE_FORWARD
+Roll forward,MOVE_FORWARD
+Roll straight ahead,MOVE_FORWARD
+Keep rolling forward,MOVE_FORWARD
+Navigate forward,MOVE_FORWARD
+Navigate straight ahead,MOVE_FORWARD
+Steer forward,MOVE_FORWARD
+Steer straight,MOVE_FORWARD
+Track forward,MOVE_FORWARD
+Track straight ahead,MOVE_FORWARD
+Cruise forward,MOVE_FORWARD
+Cruise straight,MOVE_FORWARD
+Make your way forward,MOVE_FORWARD
+Head directly straight,MOVE_FORWARD
+Go straight toward the object,MOVE_FORWARD
+Move forward toward the desk,MOVE_FORWARD
+Advance straight to the marker,MOVE_FORWARD
+Proceed forward to the line,MOVE_FORWARD
+Drive straight into the room,MOVE_FORWARD
+Move forward through the doorway,MOVE_FORWARD
+Go ahead into the next zone,MOVE_FORWARD
+Advance to the front,MOVE_FORWARD
+Move to the front position,MOVE_FORWARD
+Proceed to the forward waypoint,MOVE_FORWARD
+Drive to the next point ahead,MOVE_FORWARD
+Hey robot please move forward,MOVE_FORWARD
+Okay buddy go straight,MOVE_FORWARD
+Can you please drive forward now,MOVE_FORWARD
+It is time to move forward,MOVE_FORWARD
+Let us advance straight,MOVE_FORWARD
+We need to go forward,MOVE_FORWARD
+You should proceed ahead,MOVE_FORWARD
+I would like you to move straight,MOVE_FORWARD
+My request is for you to drive forward,MOVE_FORWARD
+Your next task is to advance forward,MOVE_FORWARD
+Command execute forward movement,MOVE_FORWARD
+Instruction set drive to straight,MOVE_FORWARD
+System initiate forward travel,MOVE_FORWARD
+Robot head straight forward,MOVE_FORWARD
+Move forward at low speed,MOVE_FORWARD
+Go straight at medium speed,MOVE_FORWARD
+Advance forward at high speed,MOVE_FORWARD
+Proceed ahead at half speed,MOVE_FORWARD
+Drive straight at full speed,MOVE_FORWARD
+Move forward at a steady pace,MOVE_FORWARD
+Go straight with constant velocity,MOVE_FORWARD
+Advance with positive acceleration,MOVE_FORWARD
+Proceed forward smoothly,MOVE_FORWARD
+Drive ahead without stopping,MOVE_FORWARD
+Go forward once more,MOVE_FORWARD
+Move straight again,MOVE_FORWARD
+Advance forward another time,MOVE_FORWARD
+Proceed straight as before,MOVE_FORWARD
+Resume forward movement,MOVE_FORWARD
+Restart forward drive,MOVE_FORWARD
+Continue your forward path,MOVE_FORWARD
+Go straight like you were doing,MOVE_FORWARD
+Move forward in a straight line,MOVE_FORWARD
+Advance along the linear path,MOVE_FORWARD
+Proceed forward on this trajectory,MOVE_FORWARD
+Drive straight along the axis,MOVE_FORWARD
+Travel forward in this direction,MOVE_FORWARD
+Head forward along the corridor,MOVE_FORWARD
+Go straight down the hallway,MOVE_FORWARD
+Move forward across the floor,MOVE_FORWARD
+Advance forward into the open space,MOVE_FORWARD
+Proceed straight to the designated area,MOVE_FORWARD
+Drive forward carefully to avoid collisions,MOVE_FORWARD
+Please move forward to clear the space,MOVE_FORWARD
+Go straight ahead to make room,MOVE_FORWARD
+Advance forward to get a closer look,MOVE_FORWARD
+Proceed ahead to inspect the item,MOVE_FORWARD
+Drive straight to shorten the distance,MOVE_FORWARD
+Move forward to close the gap,MOVE_FORWARD
+Go forward to reduce the space,MOVE_FORWARD
+Advance straight to minimize the distance,MOVE_FORWARD
+Proceed forward to reach the destination,MOVE_FORWARD
+Drive straight until you are close,MOVE_FORWARD
+Move forward until you are near,MOVE_FORWARD
+Go straight until you arrive,MOVE_FORWARD
+Advance forward until you are there,MOVE_FORWARD
+Proceed ahead until you get closer,MOVE_FORWARD
+Drive straight until positioned correctly,MOVE_FORWARD
+Move forward to align your base,MOVE_FORWARD
+Go straight to center yourself,MOVE_FORWARD
+Advance forward to adjust your position,MOVE_FORWARD
+Proceed ahead to calibrate distance,MOVE_FORWARD
+Drive straight to verify the path,MOVE_FORWARD
+Move forward as per the layout,MOVE_FORWARD
+Go straight according to plan,MOVE_FORWARD
+Advance forward on the grid,MOVE_FORWARD
+Proceed straight along the coordinates,MOVE_FORWARD
+Drive forward on the specified route,MOVE_FORWARD
+Travel straight on the current vector,MOVE_FORWARD
+Head forward to the target zone,MOVE_FORWARD
+Go straight to the charging station,MOVE_FORWARD
+Move forward to the docking area,MOVE_FORWARD
+Advance forward to the inspection point,MOVE_FORWARD
+Proceed straight to the drop-off location,MOVE_FORWARD
+Drive straight to the pickup spot,MOVE_FORWARD
+Move forward toward the main entrance,MOVE_FORWARD
+Go straight toward the exit sign,MOVE_FORWARD
+Advance forward toward the lights,MOVE_FORWARD
+Proceed ahead toward the sensor marker,MOVE_FORWARD
+Drive straight toward the camera view,MOVE_FORWARD
+Move forward into the scanning field,MOVE_FORWARD
+Go straight into the workspace,MOVE_FORWARD
+Advance forward into the center room,MOVE_FORWARD
+Proceed ahead into the designated lane,MOVE_FORWARD
+Drive straight into the storage unit,MOVE_FORWARD
+Move forward with a minimal increment,MOVE_FORWARD
+Go straight with a slight nudge,MOVE_FORWARD
+Advance forward by a tiny fraction,MOVE_FORWARD
+Proceed ahead just a hair,MOVE_FORWARD
+Drive straight by a small step,MOVE_FORWARD
+Move forward one pace,MOVE_FORWARD
+Go straight two paces,MOVE_FORWARD
+Advance forward three paces,MOVE_FORWARD
+Proceed ahead four paces,MOVE_FORWARD
+Drive straight five paces,MOVE_FORWARD
+Move forward along the centerline,MOVE_FORWARD
+Go straight down the main path,MOVE_FORWARD
+Advance forward on the track,MOVE_FORWARD
+Proceed ahead via the straight route,MOVE_FORWARD
+Drive straight through the clear opening,MOVE_FORWARD
+Backward,MOVE_BACKWARD
+Go backward,MOVE_BACKWARD
+Reverse,MOVE_BACKWARD
+Back up,MOVE_BACKWARD
+Retreat,MOVE_BACKWARD
+Move backward,MOVE_BACKWARD
+Drive backward,MOVE_BACKWARD
+Head backward,MOVE_BACKWARD
+Travel backward,MOVE_BACKWARD
+Proceed backward,MOVE_BACKWARD
+Go back,MOVE_BACKWARD
+Move back,MOVE_BACKWARD
+Drive back,MOVE_BACKWARD
+Head back,MOVE_BACKWARD
+Travel back,MOVE_BACKWARD
+Proceed back,MOVE_BACKWARD
+Back away,MOVE_BACKWARD
+Move away backward,MOVE_BACKWARD
+Drive away backward,MOVE_BACKWARD
+Retreat backward,MOVE_BACKWARD
+Please move backward,MOVE_BACKWARD
+Please go backward,MOVE_BACKWARD
+Please reverse,MOVE_BACKWARD
+Please back up,MOVE_BACKWARD
+Kindly drive backward,MOVE_BACKWARD
+Could you move backward,MOVE_BACKWARD
+Could you reverse the robot,MOVE_BACKWARD
+Would you mind backing up,MOVE_BACKWARD
+Can you go backward for me,MOVE_BACKWARD
+I need you to move backward,MOVE_BACKWARD
+I want you to reverse,MOVE_BACKWARD
+Please continue moving backward,MOVE_BACKWARD
+Keep going backward,MOVE_BACKWARD
+Keep reversing,MOVE_BACKWARD
+Continue heading backward,MOVE_BACKWARD
+Maintain backward momentum,MOVE_BACKWARD
+Drive backward slowly,MOVE_BACKWARD
+Retreat carefully,MOVE_BACKWARD
+Proceed backward with caution,MOVE_BACKWARD
+Go straight back,MOVE_BACKWARD
+Move backward a little bit,MOVE_BACKWARD
+Go back just a bit,MOVE_BACKWARD
+Reverse slightly,MOVE_BACKWARD
+Proceed a short distance backward,MOVE_BACKWARD
+Drive backward a couple of inches,MOVE_BACKWARD
+Move back for a few feet,MOVE_BACKWARD
+Go back by one meter,MOVE_BACKWARD
+Retreat backward by two meters,MOVE_BACKWARD
+Drive backward five units,MOVE_BACKWARD
+Move back ten centimeters,MOVE_BACKWARD
+Slowly back away from the target,MOVE_BACKWARD
+Gently move backward,MOVE_BACKWARD
+Gradually reverse straight,MOVE_BACKWARD
+Smoothly proceed backward,MOVE_BACKWARD
+Initiate backward movement,MOVE_BACKWARD
+Start moving backward,MOVE_BACKWARD
+Begin reversing straight,MOVE_BACKWARD
+Activate backward drive,MOVE_BACKWARD
+Execute backward motion,MOVE_BACKWARD
+Set direction to backward,MOVE_BACKWARD
+Go backward until I say stop,MOVE_BACKWARD
+Keep driving backward until further notice,MOVE_BACKWARD
+Continue retreating until you reach the wall,MOVE_BACKWARD
+Move back until the path ends,MOVE_BACKWARD
+Proceed backward until an obstacle is detected,MOVE_BACKWARD
+Drive backward continuously,MOVE_BACKWARD
+Retreat backward indefinitely,MOVE_BACKWARD
+Roll backward,MOVE_BACKWARD
+Roll straight back,MOVE_BACKWARD
+Keep rolling backward,MOVE_BACKWARD
+Navigate backward,MOVE_BACKWARD
+Navigate straight back,MOVE_BACKWARD
+Steer backward,MOVE_BACKWARD
+Steer back,MOVE_BACKWARD
+Track backward,MOVE_BACKWARD
+Track straight back,MOVE_BACKWARD
+Cruise backward,MOVE_BACKWARD
+Cruise back,MOVE_BACKWARD
+Make your way backward,MOVE_BACKWARD
+Head directly backward,MOVE_BACKWARD
+Go backward away from the object,MOVE_BACKWARD
+Move backward away from the desk,MOVE_BACKWARD
+Retreat straight from the marker,MOVE_BACKWARD
+Proceed backward from the line,MOVE_BACKWARD
+Drive back out of the room,MOVE_BACKWARD
+Move backward through the doorway,MOVE_BACKWARD
+Go back into the previous zone,MOVE_BACKWARD
+Retreat to the rear,MOVE_BACKWARD
+Move to the back position,MOVE_BACKWARD
+Proceed to the backward waypoint,MOVE_BACKWARD
+Drive to the next point behind,MOVE_BACKWARD
+Hey robot please move backward,MOVE_BACKWARD
+Okay buddy go backward,MOVE_BACKWARD
+Can you please drive backward now,MOVE_BACKWARD
+It is time to move backward,MOVE_BACKWARD
+Let us reverse straight,MOVE_BACKWARD
+We need to go backward,MOVE_BACKWARD
+You should proceed back,MOVE_BACKWARD
+I would like you to move backward,MOVE_BACKWARD
+My request is for you to drive backward,MOVE_BACKWARD
+Your next task is to reverse forward motion,MOVE_BACKWARD
+Command execute backward movement,MOVE_BACKWARD
+Instruction set drive to reverse,MOVE_BACKWARD
+System initiate backward travel,MOVE_BACKWARD
+Robot head straight back,MOVE_BACKWARD
+Move backward at low speed,MOVE_BACKWARD
+Go back at medium speed,MOVE_BACKWARD
+Reverse backward at high speed,MOVE_BACKWARD
+Proceed back at half speed,MOVE_BACKWARD
+Drive backward at full speed,MOVE_BACKWARD
+Move backward at a steady pace,MOVE_BACKWARD
+Go back with constant velocity,MOVE_BACKWARD
+Reverse with negative acceleration,MOVE_BACKWARD
+Proceed backward smoothly,MOVE_BACKWARD
+Drive back without stopping,MOVE_BACKWARD
+Go backward once more,MOVE_BACKWARD
+Move back again,MOVE_BACKWARD
+Reverse backward another time,MOVE_BACKWARD
+Proceed back as before,MOVE_BACKWARD
+Resume backward movement,MOVE_BACKWARD
+Restart backward drive,MOVE_BACKWARD
+Continue your backward path,MOVE_BACKWARD
+Go back like you were doing,MOVE_BACKWARD
+Move backward in a straight line,MOVE_BACKWARD
+Retreat along the linear path,MOVE_BACKWARD
+Proceed backward on this trajectory,MOVE_BACKWARD
+Drive back along the axis,MOVE_BACKWARD
+Travel backward in this direction,MOVE_BACKWARD
+Head backward along the corridor,MOVE_BACKWARD
+Go back down the hallway,MOVE_BACKWARD
+Move backward across the floor,MOVE_BACKWARD
+Retreat backward into the open space,MOVE_BACKWARD
+Proceed back to the designated area,MOVE_BACKWARD
+Drive backward carefully to avoid collisions,MOVE_BACKWARD
+Please move backward to clear the space,MOVE_BACKWARD
+Go back to make room,MOVE_BACKWARD
+Retreat backward to get a wider look,MOVE_BACKWARD
+Proceed back to inspect the perimeter,MOVE_BACKWARD
+Drive back to lengthen the distance,MOVE_BACKWARD
+Move backward to open the gap,MOVE_BACKWARD
+Go back to increase the space,MOVE_BACKWARD
+Retreat straight to maximize the distance,MOVE_BACKWARD
+Proceed backward to clear the destination,MOVE_BACKWARD
+Drive back until you are clear,MOVE_BACKWARD
+Move backward until you are away,MOVE_BACKWARD
+Go back until you arrive at base,MOVE_BACKWARD
+Retreat backward until you are there,MOVE_BACKWARD
+Proceed back until you get further away,MOVE_BACKWARD
+Drive back until positioned correctly,MOVE_BACKWARD
+Move backward to align your base,MOVE_BACKWARD
+Go back to center yourself,MOVE_BACKWARD
+Retreat backward to adjust your position,MOVE_BACKWARD
+Proceed back to calibrate distance,MOVE_BACKWARD
+Drive back to verify the path,MOVE_BACKWARD
+Move backward as per the layout,MOVE_BACKWARD
+Go back according to plan,MOVE_BACKWARD
+Retreat backward on the grid,MOVE_BACKWARD
+Proceed back along the coordinates,MOVE_BACKWARD
+Drive backward on the specified route,MOVE_BACKWARD
+Travel back on the current vector,MOVE_BACKWARD
+Head backward to the safety zone,MOVE_BACKWARD
+Go back to the charging station,MOVE_BACKWARD
+Move backward to the docking area,MOVE_BACKWARD
+Retreat backward to the starting point,MOVE_BACKWARD
+Proceed back to the drop-off location,MOVE_BACKWARD
+Drive back to the pickup spot,MOVE_BACKWARD
+Move backward toward the main entrance,MOVE_BACKWARD
+Go back toward the exit sign,MOVE_BACKWARD
+Retreat backward toward the lights,MOVE_BACKWARD
+Proceed back toward the sensor marker,MOVE_BACKWARD
+Drive back toward the camera view,MOVE_BACKWARD
+Move backward out of the scanning field,MOVE_BACKWARD
+Go back into the workspace,MOVE_BACKWARD
+Retreat backward into the center room,MOVE_BACKWARD
+Proceed back into the designated lane,MOVE_BACKWARD
+Drive back into the storage unit,MOVE_BACKWARD
+Move backward with a minimal increment,MOVE_BACKWARD
+Go back with a slight nudge,MOVE_BACKWARD
+Retreat backward by a tiny fraction,MOVE_BACKWARD
+Proceed back just a hair,MOVE_BACKWARD
+Drive back by a small step,MOVE_BACKWARD
+Move backward one pace,MOVE_BACKWARD
+Go back two paces,MOVE_BACKWARD
+Retreat backward three paces,MOVE_BACKWARD
+Proceed back four paces,MOVE_BACKWARD
+Drive back five paces,MOVE_BACKWARD
+Move backward along the centerline,MOVE_BACKWARD
+Go back down the main path,MOVE_BACKWARD
+Retreat backward on the track,MOVE_BACKWARD
+Proceed back via the straight route,MOVE_BACKWARD
+Drive back through the clear opening,MOVE_BACKWARD
+Left,TURN_LEFT
+Turn left,TURN_LEFT
+Rotate left,TURN_LEFT
+Face left,TURN_LEFT
+Pivot left,TURN_LEFT
+Swing left,TURN_LEFT
+Steer left,TURN_LEFT
+Turn toward the left,TURN_LEFT
+Rotate toward the left,TURN_LEFT
+Pivot toward the left,TURN_LEFT
+Steer toward the left,TURN_LEFT
+Make a left turn,TURN_LEFT
+Execute a left rotation,TURN_LEFT
+Perform a left pivot,TURN_LEFT
+Do a left turn,TURN_LEFT
+Turn counterclockwise,TURN_LEFT
+Rotate counterclockwise,TURN_LEFT
+Pivot counterclockwise,TURN_LEFT
+Swing counterclockwise,TURN_LEFT
+Steer counterclockwise,TURN_LEFT
+Please turn left,TURN_LEFT
+Please rotate left,TURN_LEFT
+Please pivot left,TURN_LEFT
+Kindly turn left,TURN_LEFT
+Kindly rotate left,TURN_LEFT
+Could you turn left,TURN_LEFT
+Could you rotate to the left,TURN_LEFT
+Would you mind turning left,TURN_LEFT
+Can you pivot left for me,TURN_LEFT
+I need you to turn left,TURN_LEFT
+I want you to rotate left,TURN_LEFT
+Please continue turning left,TURN_LEFT
+Keep turning left,TURN_LEFT
+Keep rotating left,TURN_LEFT
+Continue pivoting left,TURN_LEFT
+Maintain left rotation,TURN_LEFT
+Turn left slowly,TURN_LEFT
+Rotate left carefully,TURN_LEFT
+Pivot left with caution,TURN_LEFT
+Swing left gently,TURN_LEFT
+Turn left a little bit,TURN_LEFT
+Rotate left just a bit,TURN_LEFT
+Pivot left slightly,TURN_LEFT
+Swing left a short distance,TURN_LEFT
+Steer left a couple of inches,TURN_LEFT
+Turn left ninety degrees,TURN_LEFT
+Rotate left forty five degrees,TURN_LEFT
+Pivot left one hundred eighty degrees,TURN_LEFT
+Swing left thirty degrees,TURN_LEFT
+Steer left sixty degrees,TURN_LEFT
+Slowly turn toward the left,TURN_LEFT
+Gently rotate left,TURN_LEFT
+Gradually pivot left,TURN_LEFT
+Smoothly swing left,TURN_LEFT
+Initiate left turn,TURN_LEFT
+Start rotating left,TURN_LEFT
+Begin pivoting left,TURN_LEFT
+Activate left steering,TURN_LEFT
+Execute left pivot,TURN_LEFT
+Set direction to left,TURN_LEFT
+Turn left until I say stop,TURN_LEFT
+Keep rotating left until further notice,TURN_LEFT
+Continue pivoting left until you face the wall,TURN_LEFT
+Swing left until the path opens,TURN_LEFT
+Steer left until an obstacle is avoided,TURN_LEFT
+Turn left continuously,TURN_LEFT
+Rotate left indefinitely,TURN_LEFT
+Roll left,TURN_LEFT
+Roll toward the left,TURN_LEFT
+Keep rolling left,TURN_LEFT
+Navigate left,TURN_LEFT
+Navigate toward the left,TURN_LEFT
+Steer the chassis left,TURN_LEFT
+Adjust heading to the left,TURN_LEFT
+Track toward the left,TURN_LEFT
+Change heading to left,TURN_LEFT
+Cruise left,TURN_LEFT
+Veer left,TURN_LEFT
+Make your way left,TURN_LEFT
+Head directly left,TURN_LEFT
+Turn left toward the object,TURN_LEFT
+Rotate left toward the desk,TURN_LEFT
+Pivot left to the marker,TURN_LEFT
+Swing left to the line,TURN_LEFT
+Steer left into the room,TURN_LEFT
+Turn left through the doorway,TURN_LEFT
+Rotate left into the next zone,TURN_LEFT
+Pivot to the left side,TURN_LEFT
+Move heading to the left position,TURN_LEFT
+Proceed to the left waypoint,TURN_LEFT
+Steer to the next point on the left,TURN_LEFT
+Hey robot please turn left,TURN_LEFT
+Okay buddy rotate left,TURN_LEFT
+Can you please pivot left now,TURN_LEFT
+It is time to turn left,TURN_LEFT
+Let us rotate left,TURN_LEFT
+We need to turn left,TURN_LEFT
+You should pivot left,TURN_LEFT
+I would like you to steer left,TURN_LEFT
+My request is for you to turn left,TURN_LEFT
+Your next task is to rotate left,TURN_LEFT
+Command execute left turn,TURN_LEFT
+Instruction set orientation to left,TURN_LEFT
+System initiate left pivot,TURN_LEFT
+Robot head toward the left,TURN_LEFT
+Turn left at low speed,TURN_LEFT
+Rotate left at medium speed,TURN_LEFT
+Pivot left at high speed,TURN_LEFT
+Swing left at half speed,TURN_LEFT
+Steer left at full speed,TURN_LEFT
+Turn left at a steady pace,TURN_LEFT
+Rotate left with constant velocity,TURN_LEFT
+Pivot left with positive acceleration,TURN_LEFT
+Swing left smoothly,TURN_LEFT
+Steer left without stopping,TURN_LEFT
+Turn left once more,TURN_LEFT
+Rotate left again,TURN_LEFT
+Pivot left another time,TURN_LEFT
+Swing left as before,TURN_LEFT
+Resume left rotation,TURN_LEFT
+Restart left turn,TURN_LEFT
+Continue your left pivot,TURN_LEFT
+Turn left like you were doing,TURN_LEFT
+Rotate left in a sharp manner,TURN_LEFT
+Pivot left along the circular path,TURN_LEFT
+Swing left on this trajectory,TURN_LEFT
+Steer left along the axis,TURN_LEFT
+Travel left in this direction,TURN_LEFT
+Head left along the corridor,TURN_LEFT
+Turn left down the hallway,TURN_LEFT
+Rotate left across the floor,TURN_LEFT
+Pivot left into the open space,TURN_LEFT
+Swing left to the designated area,TURN_LEFT
+Steer left carefully to avoid collisions,TURN_LEFT
+Please turn left to clear the space,TURN_LEFT
+Rotate left to make room,TURN_LEFT
+Pivot left to get a closer look,TURN_LEFT
+Swing left to inspect the item,TURN_LEFT
+Steer left to shorten the distance,TURN_LEFT
+Turn left to close the gap,TURN_LEFT
+Rotate left to reduce the space,TURN_LEFT
+Pivot left to minimize the distance,TURN_LEFT
+Swing left to reach the destination,TURN_LEFT
+Steer left until you are close,TURN_LEFT
+Turn left until you are near,TURN_LEFT
+Rotate left until you arrive,TURN_LEFT
+Pivot left until you are there,TURN_LEFT
+Swing left until you get closer,TURN_LEFT
+Steer left until positioned correctly,TURN_LEFT
+Turn left to align your base,TURN_LEFT
+Rotate left to center yourself,TURN_LEFT
+Pivot left to adjust your position,TURN_LEFT
+Swing left to calibrate direction,TURN_LEFT
+Steer left to verify the path,TURN_LEFT
+Turn left as per the layout,TURN_LEFT
+Rotate left according to plan,TURN_LEFT
+Pivot left on the grid,TURN_LEFT
+Swing left along the coordinates,TURN_LEFT
+Steer left on the specified route,TURN_LEFT
+Travel left on the current vector,TURN_LEFT
+Head left to the target zone,TURN_LEFT
+Turn left to the charging station,TURN_LEFT
+Rotate left to the docking area,TURN_LEFT
+Pivot left to the inspection point,TURN_LEFT
+Swing left to the drop-off location,TURN_LEFT
+Steer left to the pickup spot,TURN_LEFT
+Turn left toward the main entrance,TURN_LEFT
+Rotate left toward the exit sign,TURN_LEFT
+Pivot left toward the lights,TURN_LEFT
+Swing left toward the sensor marker,TURN_LEFT
+Steer left toward the camera view,TURN_LEFT
+Turn left into the scanning field,TURN_LEFT
+Rotate left into the workspace,TURN_LEFT
+Pivot left into the center room,TURN_LEFT
+Swing left into the designated lane,TURN_LEFT
+Steer left into the storage unit,TURN_LEFT
+Turn left with a minimal increment,TURN_LEFT
+Rotate left with a slight nudge,TURN_LEFT
+Pivot left by a tiny fraction,TURN_LEFT
+Swing left just a hair,TURN_LEFT
+Steer left by a small step,TURN_LEFT
+Turn left one degree,TURN_LEFT
+Rotate left five degrees,TURN_LEFT
+Pivot left ten degrees,TURN_LEFT
+Swing left fifteen degrees,TURN_LEFT
+Steer left twenty degrees,TURN_LEFT
+Turn left along the centerline,TURN_LEFT
+Rotate left down the main path,TURN_LEFT
+Pivot left on the track,TURN_LEFT
+Swing left via the straight route,TURN_LEFT
+Steer left through the clear opening,TURN_LEFT
+Right,TURN_RIGHT
+Turn right,TURN_RIGHT
+Rotate right,TURN_RIGHT
+Face right,TURN_RIGHT
+Pivot right,TURN_RIGHT
+Swing right,TURN_RIGHT
+Steer right,TURN_RIGHT
+Turn toward the right,TURN_RIGHT
+Rotate toward the right,TURN_RIGHT
+Pivot toward the right,TURN_RIGHT
+Steer toward the right,TURN_RIGHT
+Make a right turn,TURN_RIGHT
+Execute a right rotation,TURN_RIGHT
+Perform a right pivot,TURN_RIGHT
+Do a right turn,TURN_RIGHT
+Turn clockwise,TURN_RIGHT
+Rotate clockwise,TURN_RIGHT
+Pivot clockwise,TURN_RIGHT
+Swing clockwise,TURN_RIGHT
+Steer clockwise,TURN_RIGHT
+Please turn right,TURN_RIGHT
+Please rotate right,TURN_RIGHT
+Please pivot right,TURN_RIGHT
+Kindly turn right,TURN_RIGHT
+Kindly rotate right,TURN_RIGHT
+Could you turn right,TURN_RIGHT
+Could you rotate to the right,TURN_RIGHT
+Would you mind turning right,TURN_RIGHT
+Can you pivot right for me,TURN_RIGHT
+I need you to turn right,TURN_RIGHT
+I want you to rotate right,TURN_RIGHT
+Please continue turning right,TURN_RIGHT
+Keep turning right,TURN_RIGHT
+Keep rotating right,TURN_RIGHT
+Continue pivoting right,TURN_RIGHT
+Maintain right rotation,TURN_RIGHT
+Turn right slowly,TURN_RIGHT
+Rotate right carefully,TURN_RIGHT
+Pivot right with caution,TURN_RIGHT
+Swing right gently,TURN_RIGHT
+Turn right a little bit,TURN_RIGHT
+Rotate right just a bit,TURN_RIGHT
+Pivot right slightly,TURN_RIGHT
+Swing right a short distance,TURN_RIGHT
+Steer right a couple of inches,TURN_RIGHT
+Turn right ninety degrees,TURN_RIGHT
+Rotate right forty five degrees,TURN_RIGHT
+Pivot right one hundred eighty degrees,TURN_RIGHT
+Swing right thirty degrees,TURN_RIGHT
+Steer right sixty degrees,TURN_RIGHT
+Slowly turn toward the right,TURN_RIGHT
+Gently rotate right,TURN_RIGHT
+Gradually pivot right,TURN_RIGHT
+Smoothly swing right,TURN_RIGHT
+Initiate right turn,TURN_RIGHT
+Start rotating right,TURN_RIGHT
+Begin pivoting right,TURN_RIGHT
+Activate right steering,TURN_RIGHT
+Execute right pivot,TURN_RIGHT
+Set direction to right,TURN_RIGHT
+Turn right until I say stop,TURN_RIGHT
+Keep rotating right until further notice,TURN_RIGHT
+Continue pivoting right until you face the wall,TURN_RIGHT
+Swing right until the path opens,TURN_RIGHT
+Steer right until an obstacle is avoided,TURN_RIGHT
+Turn right continuously,TURN_RIGHT
+Rotate right indefinitely,TURN_RIGHT
+Roll right,TURN_RIGHT
+Roll toward the right,TURN_RIGHT
+Keep rolling right,TURN_RIGHT
+Navigate right,TURN_RIGHT
+Navigate toward the right,TURN_RIGHT
+Steer the chassis right,TURN_RIGHT
+Adjust heading to the right,TURN_RIGHT
+Track toward the right,TURN_RIGHT
+Change heading to right,TURN_RIGHT
+Cruise right,TURN_RIGHT
+Veer right,TURN_RIGHT
+Make your way right,TURN_RIGHT
+Head directly right,TURN_RIGHT
+Turn right toward the object,TURN_RIGHT
+Rotate right toward the desk,TURN_RIGHT
+Pivot right to the marker,TURN_RIGHT
+Swing right to the line,TURN_RIGHT
+Steer right into the room,TURN_RIGHT
+Turn right through the doorway,TURN_RIGHT
+Rotate right into the next zone,TURN_RIGHT
+Pivot to the right side,TURN_RIGHT
+Move heading to the right position,TURN_RIGHT
+Proceed to the right waypoint,TURN_RIGHT
+Steer to the next point on the right,TURN_RIGHT
+Hey robot please turn right,TURN_RIGHT
+Okay buddy rotate right,TURN_RIGHT
+Can you please pivot right now,TURN_RIGHT
+It is time to turn right,TURN_RIGHT
+Let us rotate right,TURN_RIGHT
+We need to turn right,TURN_RIGHT
+You should pivot right,TURN_RIGHT
+I would like you to steer right,TURN_RIGHT
+My request is for you to turn right,TURN_RIGHT
+Your next task is to rotate right,TURN_RIGHT
+Command execute right turn,TURN_RIGHT
+Instruction set orientation to right,TURN_RIGHT
+System initiate right pivot,TURN_RIGHT
+Robot head toward the right,TURN_RIGHT
+Turn right at low speed,TURN_RIGHT
+Rotate right at medium speed,TURN_RIGHT
+Pivot right at high speed,TURN_RIGHT
+Swing right at half speed,TURN_RIGHT
+Steer right at full speed,TURN_RIGHT
+Turn right at a steady pace,TURN_RIGHT
+Rotate right with constant velocity,TURN_RIGHT
+Pivot right with positive acceleration,TURN_RIGHT
+Swing right smoothly,TURN_RIGHT
+Steer right without stopping,TURN_RIGHT
+Turn right once more,TURN_RIGHT
+Rotate right again,TURN_RIGHT
+Pivot right another time,TURN_RIGHT
+Swing right as before,TURN_RIGHT
+Resume right rotation,TURN_RIGHT
+Restart right turn,TURN_RIGHT
+Continue your right pivot,TURN_RIGHT
+Turn right like you were doing,TURN_RIGHT
+Rotate right in a sharp manner,TURN_RIGHT
+Pivot right along the circular path,TURN_RIGHT
+Swing right on this trajectory,TURN_RIGHT
+Steer right along the axis,TURN_RIGHT
+Travel right in this direction,TURN_RIGHT
+Head right along the corridor,TURN_RIGHT
+Turn right down the hallway,TURN_RIGHT
+Rotate right across the floor,TURN_RIGHT
+Pivot right into the open space,TURN_RIGHT
+Swing right to the designated area,TURN_RIGHT
+Steer right carefully to avoid collisions,TURN_RIGHT
+Please turn right to clear the space,TURN_RIGHT
+Rotate right to make room,TURN_RIGHT
+Pivot right to get a closer look,TURN_RIGHT
+Swing right to inspect the item,TURN_RIGHT
+Steer right to shorten the distance,TURN_RIGHT
+Turn right to close the gap,TURN_RIGHT
+Rotate right to reduce the space,TURN_RIGHT
+Pivot right to minimize the distance,TURN_RIGHT
+Swing right to reach the destination,TURN_RIGHT
+Steer right until you are close,TURN_RIGHT
+Turn right until you are near,TURN_RIGHT
+Rotate right until you arrive,TURN_RIGHT
+Pivot right until you are there,TURN_RIGHT
+Swing right until you get closer,TURN_RIGHT
+Steer right until positioned correctly,TURN_RIGHT
+Turn right to align your base,TURN_RIGHT
+Rotate right to center yourself,TURN_RIGHT
+Pivot right to adjust your position,TURN_RIGHT
+Swing right to calibrate direction,TURN_RIGHT
+Steer right to verify the path,TURN_RIGHT
+Turn right as per the layout,TURN_RIGHT
+Rotate right according to plan,TURN_RIGHT
+Pivot right on the grid,TURN_RIGHT
+Swing right along the coordinates,TURN_RIGHT
+Steer right on the specified route,TURN_RIGHT
+Travel right on the current vector,TURN_RIGHT
+Head right to the target zone,TURN_RIGHT
+Turn right to the charging station,TURN_RIGHT
+Rotate right to the docking area,TURN_RIGHT
+Pivot right to the inspection point,TURN_RIGHT
+Swing right to the drop-off location,TURN_RIGHT
+Steer right to the pickup spot,TURN_RIGHT
+Turn right toward the main entrance,TURN_RIGHT
+Rotate right toward the exit sign,TURN_RIGHT
+Pivot right toward the lights,TURN_RIGHT
+Swing right toward the sensor marker,TURN_RIGHT
+Steer right toward the camera view,TURN_RIGHT
+Turn right into the scanning field,TURN_RIGHT
+Rotate right into the workspace,TURN_RIGHT
+Pivot right into the center room,TURN_RIGHT
+Swing right into the designated lane,TURN_RIGHT
+Steer right into the storage unit,TURN_RIGHT
+Turn right with a minimal increment,TURN_RIGHT
+Rotate right with a slight nudge,TURN_RIGHT
+Pivot right by a tiny fraction,TURN_RIGHT
+Swing right just a hair,TURN_RIGHT
+Steer right by a small step,TURN_RIGHT
+Turn right one degree,TURN_RIGHT
+Rotate right five degrees,TURN_RIGHT
+Pivot right ten degrees,TURN_RIGHT
+Swing right fifteen degrees,TURN_RIGHT
+Steer right twenty degrees,TURN_RIGHT
+Turn right along the centerline,TURN_RIGHT
+Rotate right down the main path,TURN_RIGHT
+Pivot right on the track,TURN_RIGHT
+Swing right via the straight route,TURN_RIGHT
+Steer right through the clear opening,TURN_RIGHT
+Arm up,ARM_UP
+Raise arm,ARM_UP
+Lift arm,ARM_UP
+Elevate arm,ARM_UP
+Move arm up,ARM_UP
+Bring arm up,ARM_UP
+Raise the manipulator,ARM_UP
+Lift the manipulator,ARM_UP
+Elevate the manipulator,ARM_UP
+Move manipulator up,ARM_UP
+Bring manipulator up,ARM_UP
+Raise robot arm,ARM_UP
+Lift robot arm,ARM_UP
+Elevate robot arm,ARM_UP
+Move robot arm up,ARM_UP
+Bring robot arm up,ARM_UP
+Raise the mechanical arm,ARM_UP
+Lift the mechanical arm,ARM_UP
+Elevate the mechanical arm,ARM_UP
+Move mechanical arm up,ARM_UP
+Bring mechanical arm up,ARM_UP
+Please arm up,ARM_UP
+Please raise arm,ARM_UP
+Please lift arm,ARM_UP
+Please elevate arm,ARM_UP
+Kindly move arm up,ARM_UP
+Could you bring arm up,ARM_UP
+Could you raise the manipulator,ARM_UP
+Would you mind lifting the arm,ARM_UP
+Can you elevate the arm for me,ARM_UP
+I need you to move arm up,ARM_UP
+I want you to bring arm up,ARM_UP
+Please continue raising arm,ARM_UP
+Keep lifting arm,ARM_UP
+Keep elevating arm,ARM_UP
+Continue moving arm up,ARM_UP
+Maintain upward arm movement,ARM_UP
+Raise arm slowly,ARM_UP
+Lift arm carefully,ARM_UP
+Elevate arm with caution,ARM_UP
+Bring arm up gently,ARM_UP
+Arm up a little bit,ARM_UP
+Raise arm just a bit,ARM_UP
+Lift arm slightly,ARM_UP
+Elevate arm a short distance,ARM_UP
+Move arm up a couple of inches,ARM_UP
+Raise arm ten inches,ARM_UP
+Lift arm five centimeters,ARM_UP
+Elevate arm twenty degrees,ARM_UP
+Bring arm up thirty centimeters,ARM_UP
+Move arm up fifty millimeters,ARM_UP
+Slowly raise the manipulator,ARM_UP
+Gently lift the mechanical arm,ARM_UP
+Gradually elevate robot arm,ARM_UP
+Smoothly bring arm up,ARM_UP
+Initiate upward arm motion,ARM_UP
+Start raising arm,ARM_UP
+Begin lifting arm,ARM_UP
+Activate arm elevation,ARM_UP
+Execute arm lift,ARM_UP
+Set arm movement to upward,ARM_UP
+Raise arm until I say stop,ARM_UP
+Keep lifting arm until further notice,ARM_UP
+Continue elevating arm until it reaches the top,ARM_UP
+Move arm up until the limit switch triggers,ARM_UP
+Bring arm up until it clears the obstacle,ARM_UP
+Raise arm continuously,ARM_UP
+Lift arm indefinitely,ARM_UP
+Extend arm upward,ARM_UP
+Drive arm upward,ARM_UP
+Keep driving arm up,ARM_UP
+Adjust arm upward,ARM_UP
+Shift arm upward,ARM_UP
+Position arm higher,ARM_UP
+Set arm to a higher position,ARM_UP
+Change arm height to upper,ARM_UP
+Move arm to the upper level,ARM_UP
+Point arm upward,ARM_UP
+Angle arm upward,ARM_UP
+Tilt arm upward,ARM_UP
+Swing arm upward,ARM_UP
+Raise arm toward the ceiling,ARM_UP
+Lift arm toward the shelf,ARM_UP
+Elevate arm to the table height,ARM_UP
+Bring arm up to the object level,ARM_UP
+Move arm up into the view field,ARM_UP
+Raise arm out of the way,ARM_UP
+Lift arm clear of the ground,ARM_UP
+Elevate arm to maximum height,ARM_UP
+Bring arm up to home position,ARM_UP
+Move arm to the top waypoint,ARM_UP
+Hey robot please raise your arm,ARM_UP
+Okay buddy arm up,ARM_UP
+Can you please lift the arm now,ARM_UP
+It is time to elevate the arm,ARM_UP
+Let us move the arm up,ARM_UP
+We need to bring the arm up,ARM_UP
+You should raise your manipulator,ARM_UP
+I would like you to lift the mechanical arm,ARM_UP
+My request is for you to elevate the arm,ARM_UP
+Your next task is to move the arm upward,ARM_UP
+Command execute arm lift sequence,ARM_UP
+Instruction set arm joints to elevate,ARM_UP
+System initiate upward arm drive,ARM_UP
+Robot raise arm to high position,ARM_UP
+Raise arm at low speed,ARM_UP
+Lift arm at medium speed,ARM_UP
+Elevate arm at high speed,ARM_UP
+Bring arm up at half speed,ARM_UP
+Move arm up at full speed,ARM_UP
+Raise arm at a steady pace,ARM_UP
+Lift arm with constant velocity,ARM_UP
+Elevate arm with positive acceleration,ARM_UP
+Bring arm up smoothly,ARM_UP
+Move arm up without stopping,ARM_UP
+Raise arm once more,ARM_UP
+Lift arm again,ARM_UP
+Elevate arm another time,ARM_UP
+Bring arm up as before,ARM_UP
+Resume arm elevation,ARM_UP
+Restart arm lift,ARM_UP
+Continue your upward arm path,ARM_UP
+Raise arm like you were doing,ARM_UP
+Move arm vertically upward,ARM_UP
+Lift arm along the vertical axis,ARM_UP
+Elevate arm on this trajectory,ARM_UP
+Bring arm up straight,ARM_UP
+Travel arm upward in this direction,ARM_UP
+Head arm upward toward the target,ARM_UP
+Raise arm to clear the barrier,ARM_UP
+Lift arm to avoid the box,ARM_UP
+Elevate arm to reach the high shelf,ARM_UP
+Bring arm up to grasp the handle,ARM_UP
+Move arm up to position for pickup,ARM_UP
+Please raise arm to get ready,ARM_UP
+Lift arm to make room below,ARM_UP
+Elevate arm to change perspective,ARM_UP
+Bring arm up to scan the top,ARM_UP
+Move arm up to inspect the sensor,ARM_UP
+Raise arm to avoid dragging on floor,ARM_UP
+Lift arm to secure the load,ARM_UP
+Elevate arm to balance the body,ARM_UP
+Bring arm up to standard height,ARM_UP
+Move arm up to the next tier,ARM_UP
+Raise arm until you cannot anymore,ARM_UP
+Lift arm until it stops automatically,ARM_UP
+Elevate arm until fully extended,ARM_UP
+Bring arm up until vertical,ARM_UP
+Move arm up until straight,ARM_UP
+Raise arm to the ninety degree position,ARM_UP
+Lift arm to the forty five degree angle,ARM_UP
+Elevate arm to the high waypoint,ARM_UP
+Bring arm up to the top marker,ARM_UP
+Move arm up to the designated height,ARM_UP
+Raise arm according to layout,ARM_UP
+Lift arm as per schedule,ARM_UP
+Elevate arm on the coordinate system,ARM_UP
+Bring arm up based on instructions,ARM_UP
+Move arm up to the specified level,ARM_UP
+Raise arm toward the upper sensor,ARM_UP
+Lift arm toward the top rail,ARM_UP
+Elevate arm toward the overhead crane,ARM_UP
+Bring arm up toward the ceiling light,ARM_UP
+Move arm up toward the upper platform,ARM_UP
+Raise arm into the high workspace,ARM_UP
+Lift arm into the elevated zone,ARM_UP
+Elevate arm into the top tier,ARM_UP
+Bring arm up into the upper compartment,ARM_UP
+Move arm up into the clean area,ARM_UP
+Raise arm with small steps,ARM_UP
+Lift arm with small increments,ARM_UP
+Elevate arm with a gentle nudge,ARM_UP
+Bring arm up by a millimeter,ARM_UP
+Move arm up by an inch,ARM_UP
+Raise arm one step,ARM_UP
+Lift arm two steps,ARM_UP
+Elevate arm three steps,ARM_UP
+Bring arm up four steps,ARM_UP
+Move arm up five steps,ARM_UP
+Raise arm along the track,ARM_UP
+Lift arm through the opening,ARM_UP
+Elevate arm along the rail,ARM_UP
+Bring arm up via the elevator mechanism,ARM_UP
+Move arm up through the slot,ARM_UP
+Arm down,ARM_DOWN
+Lower arm,ARM_DOWN
+Drop arm,ARM_DOWN
+Descend arm,ARM_DOWN
+Move arm down,ARM_DOWN
+Bring arm down,ARM_DOWN
+Lower the manipulator,ARM_DOWN
+Drop the manipulator,ARM_DOWN
+Descend the manipulator,ARM_DOWN
+Move manipulator down,ARM_DOWN
+Bring manipulator down,ARM_DOWN
+Lower robot arm,ARM_DOWN
+Drop robot arm,ARM_DOWN
+Descend robot arm,ARM_DOWN
+Move robot arm down,ARM_DOWN
+Bring robot arm down,ARM_DOWN
+Lower the mechanical arm,ARM_DOWN
+Drop the mechanical arm,ARM_DOWN
+Descend the mechanical arm,ARM_DOWN
+Move mechanical arm down,ARM_DOWN
+Bring mechanical arm down,ARM_DOWN
+Please arm down,ARM_DOWN
+Please lower arm,ARM_DOWN
+Please drop arm,ARM_DOWN
+Please descend arm,ARM_DOWN
+Kindly move arm down,ARM_DOWN
+Could you bring arm down,ARM_DOWN
+Could you lower the manipulator,ARM_DOWN
+Would you mind dropping the arm,ARM_DOWN
+Can you descend the arm for me,ARM_DOWN
+I need you to move arm down,ARM_DOWN
+I want you to bring arm down,ARM_DOWN
+Please continue lowering arm,ARM_DOWN
+Keep dropping arm,ARM_DOWN
+Keep descending arm,ARM_DOWN
+Continue moving arm down,ARM_DOWN
+Maintain downward arm movement,ARM_DOWN
+Lower arm slowly,ARM_DOWN
+Drop arm carefully,ARM_DOWN
+Descend arm with caution,ARM_DOWN
+Bring arm down gently,ARM_DOWN
+Arm down a little bit,ARM_DOWN
+Lower arm just a bit,ARM_DOWN
+Drop arm slightly,ARM_DOWN
+Descend arm a short distance,ARM_DOWN
+Move arm down a couple of inches,ARM_DOWN
+Lower arm ten inches,ARM_DOWN
+Drop arm five centimeters,ARM_DOWN
+Descend arm twenty degrees,ARM_DOWN
+Bring arm down thirty centimeters,ARM_DOWN
+Move arm down fifty millimeters,ARM_DOWN
+Slowly lower the manipulator,ARM_DOWN
+Gently drop the mechanical arm,ARM_DOWN
+Gradually descend robot arm,ARM_DOWN
+Smoothly bring arm down,ARM_DOWN
+Initiate downward arm motion,ARM_DOWN
+Start lowering arm,ARM_DOWN
+Begin dropping arm,ARM_DOWN
+Activate arm descent,ARM_DOWN
+Execute arm drop,ARM_DOWN
+Set arm movement to downward,ARM_DOWN
+Lower arm until I say stop,ARM_DOWN
+Keep dropping arm until further notice,ARM_DOWN
+Continue descending arm until it reaches the floor,ARM_DOWN
+Move arm down until the bottom limit switch triggers,ARM_DOWN
+Bring arm down until it rests on the table,ARM_DOWN
+Lower arm continuously,ARM_DOWN
+Drop arm indefinitely,ARM_DOWN
+Extend arm downward,ARM_DOWN
+Drive arm downward,ARM_DOWN
+Keep driving arm down,ARM_DOWN
+Adjust arm downward,ARM_DOWN
+Shift arm downward,ARM_DOWN
+Position arm lower,ARM_DOWN
+Set arm to a lower position,ARM_DOWN
+Change arm height to lower,ARM_DOWN
+Move arm to the lower level,ARM_DOWN
+Point arm downward,ARM_DOWN
+Angle arm downward,ARM_DOWN
+Tilt arm downward,ARM_DOWN
+Swing arm downward,ARM_DOWN
+Lower arm toward the ground,ARM_DOWN
+Drop arm toward the floor,ARM_DOWN
+Descend arm to the basement level,ARM_DOWN
+Bring arm down to the lowest point,ARM_DOWN
+Move arm down into the storage bin,ARM_DOWN
+Lower arm out of the high zone,ARM_DOWN
+Drop arm clear of the ceiling,ARM_DOWN
+Descend arm to minimum height,ARM_DOWN
+Bring arm down to home position,ARM_DOWN
+Move arm to the bottom waypoint,ARM_DOWN
+Hey robot please lower your arm,ARM_DOWN
+Okay buddy arm down,ARM_DOWN
+Can you please drop the arm now,ARM_DOWN
+It is time to descend the arm,ARM_DOWN
+Let us move the arm down,ARM_DOWN
+We need to bring the arm down,ARM_DOWN
+You should lower your manipulator,ARM_DOWN
+I would like you to drop the mechanical arm,ARM_DOWN
+My request is for you to descend the arm,ARM_DOWN
+Your next task is to move the arm downward,ARM_DOWN
+Command execute arm lower sequence,ARM_DOWN
+Instruction set arm joints to descend,ARM_DOWN
+System initiate downward arm drive,ARM_DOWN
+Robot lower arm to low position,ARM_DOWN
+Lower arm at low speed,ARM_DOWN
+Drop arm at medium speed,ARM_DOWN
+Descend arm at high speed,ARM_DOWN
+Bring arm down at half speed,ARM_DOWN
+Move arm down at full speed,ARM_DOWN
+Lower arm at a steady pace,ARM_DOWN
+Drop arm with constant velocity,ARM_DOWN
+Descend arm with positive acceleration,ARM_DOWN
+Bring arm down smoothly,ARM_DOWN
+Move arm down without stopping,ARM_DOWN
+Lower arm once more,ARM_DOWN
+Drop arm again,ARM_DOWN
+Descend arm another time,ARM_DOWN
+Bring arm down as before,ARM_DOWN
+Resume arm descent,ARM_DOWN
+Restart arm lower,ARM_DOWN
+Continue your downward arm path,ARM_DOWN
+Lower arm like you were doing,ARM_DOWN
+Move arm vertically downward,ARM_DOWN
+Drop arm along the vertical axis,ARM_DOWN
+Descend arm on this trajectory,ARM_DOWN
+Bring arm down straight,ARM_DOWN
+Travel arm downward in this direction,ARM_DOWN
+Head arm downward toward the ground,ARM_DOWN
+Lower arm to place the object,ARM_DOWN
+Drop arm to release tension,ARM_DOWN
+Descend arm to reach the floor item,ARM_DOWN
+Bring arm down to low profile,ARM_DOWN
+Move arm down to position for packing,ARM_DOWN
+Please lower arm to standby mode,ARM_DOWN
+Drop arm to reduce height,ARM_DOWN
+Descend arm to fit through the gate,ARM_DOWN
+Bring arm down to safe level,ARM_DOWN
+Move arm down to avoid hitting something,ARM_DOWN
+Lower arm to reset the position,ARM_DOWN
+Drop arm to rest configuration,ARM_DOWN
+Descend arm to prepare for transit,ARM_DOWN
+Bring arm down to lower deck,ARM_DOWN
+Move arm down to the ground plane,ARM_DOWN
+Lower arm until you cannot anymore,ARM_DOWN
+Drop arm until it stops automatically,ARM_DOWN
+Descend arm until fully compressed,ARM_DOWN
+Bring arm down until horizontal,ARM_DOWN
+Move arm down until flat,ARM_DOWN
+Lower arm to the zero degree position,ARM_DOWN
+Drop arm to the negative angle,ARM_DOWN
+Descend arm to the low waypoint,ARM_DOWN
+Bring arm down to the bottom marker,ARM_DOWN
+Move arm down to the designated floor,ARM_DOWN
+Lower arm according to layout,ARM_DOWN
+Drop arm as per schedule,ARM_DOWN
+Descend arm on the coordinate system,ARM_DOWN
+Bring arm down based on instructions,ARM_DOWN
+Move arm down to the specified level,ARM_DOWN
+Lower arm toward the lower sensor,ARM_DOWN
+Drop arm toward the conveyor belt,ARM_DOWN
+Descend arm toward the work bench,ARM_DOWN
+Bring arm down toward the floor mat,ARM_DOWN
+Move arm down toward the dock,ARM_DOWN
+Lower arm into the low workspace,ARM_DOWN
+Drop arm into the container,ARM_DOWN
+Descend arm into the tray,ARM_DOWN
+Bring arm down into the slot,ARM_DOWN
+Move arm down into the base cradle,ARM_DOWN
+Lower arm with small steps,ARM_DOWN
+Drop arm with small increments,ARM_DOWN
+Descend arm with a gentle nudge,ARM_DOWN
+Bring arm down by a millimeter,ARM_DOWN
+Move arm down by an inch,ARM_DOWN
+Lower arm one step,ARM_DOWN
+Drop arm two steps,ARM_DOWN
+Descend arm three steps,ARM_DOWN
+Bring arm down four steps,ARM_DOWN
+Move arm down five steps,ARM_DOWN
+Lower arm along the track,ARM_DOWN
+Drop arm through the opening,ARM_DOWN
+Descend arm along the rail,ARM_DOWN
+Bring arm down via gravity assist,ARM_DOWN
+Move arm down through the channel,ARM_DOWN
+Gripper open,GRIPPER_OPEN
+Open gripper,GRIPPER_OPEN
+Release gripper,GRIPPER_OPEN
+Unclamp gripper,GRIPPER_OPEN
+Spread gripper,GRIPPER_OPEN
+Open claw,GRIPPER_OPEN
+Release claw,GRIPPER_OPEN
+Unclamp claw,GRIPPER_OPEN
+Spread claw,GRIPPER_OPEN
+Open hand,GRIPPER_OPEN
+Release hand,GRIPPER_OPEN
+Unclamp hand,GRIPPER_OPEN
+Spread hand,GRIPPER_OPEN
+Open the fingers,GRIPPER_OPEN
+Release the fingers,GRIPPER_OPEN
+Unclamp the fingers,GRIPPER_OPEN
+Spread the fingers,GRIPPER_OPEN
+Open the end effector,GRIPPER_OPEN
+Release the end effector,GRIPPER_OPEN
+Unclamp the end effector,GRIPPER_OPEN
+Spread the end effector,GRIPPER_OPEN
+Please gripper open,GRIPPER_OPEN
+Please open gripper,GRIPPER_OPEN
+Please release gripper,GRIPPER_OPEN
+Please unclamp gripper,GRIPPER_OPEN
+Kindly open the claw,GRIPPER_OPEN
+Could you release the claw,GRIPPER_OPEN
+Could you open the gripper jaws,GRIPPER_OPEN
+Would you mind spreading the gripper,GRIPPER_OPEN
+Can you open the hand for me,GRIPPER_OPEN
+I need you to open gripper,GRIPPER_OPEN
+I want you to release gripper,GRIPPER_OPEN
+Please continue opening gripper,GRIPPER_OPEN
+Keep opening gripper,GRIPPER_OPEN
+Keep spreading gripper jaws,GRIPPER_OPEN
+Continue unclamping gripper,GRIPPER_OPEN
+Maintain opening motion on gripper,GRIPPER_OPEN
+Open gripper slowly,GRIPPER_OPEN
+Release gripper carefully,GRIPPER_OPEN
+Unclamp gripper with caution,GRIPPER_OPEN
+Spread gripper fingers gently,GRIPPER_OPEN
+Gripper open a little bit,GRIPPER_OPEN
+Open gripper just a bit,GRIPPER_OPEN
+Release gripper slightly,GRIPPER_OPEN
+Unclamp gripper a short distance,GRIPPER_OPEN
+Spread gripper a couple of inches,GRIPPER_OPEN
+Open gripper ten millimeters,GRIPPER_OPEN
+Spread claw five centimeters,GRIPPER_OPEN
+Open hand twenty percent,GRIPPER_OPEN
+Release jaws thirty percent,GRIPPER_OPEN
+Unclamp fingers fifty percent,GRIPPER_OPEN
+Slowly open the end effector,GRIPPER_OPEN
+Gently release the mechanical claw,GRIPPER_OPEN
+Gradually unclamp robot hand,GRIPPER_OPEN
+Smoothly spread gripper fingers,GRIPPER_OPEN
+Initiate gripper opening,GRIPPER_OPEN
+Start opening gripper,GRIPPER_OPEN
+Begin releasing claw,GRIPPER_OPEN
+Activate gripper unclamp,GRIPPER_OPEN
+Execute claw spread,GRIPPER_OPEN
+Set gripper state to open,GRIPPER_OPEN
+Open gripper until I say stop,GRIPPER_OPEN
+Keep opening gripper until further notice,GRIPPER_OPEN
+Continue opening claw until fully widened,GRIPPER_OPEN
+Unclamp gripper until the object drops,GRIPPER_OPEN
+Spread gripper until the maximum width,GRIPPER_OPEN
+Open gripper continuously,GRIPPER_OPEN
+Spread claw indefinitely,GRIPPER_OPEN
+Extend gripper jaws outward,GRIPPER_OPEN
+Drive gripper to open state,GRIPPER_OPEN
+Keep driving gripper open,GRIPPER_OPEN
+Adjust gripper to open position,GRIPPER_OPEN
+Shift gripper jaws apart,GRIPPER_OPEN
+Position gripper wider,GRIPPER_OPEN
+Set gripper to a wider stance,GRIPPER_OPEN
+Change gripper state to fully open,GRIPPER_OPEN
+Move gripper jaws to outer limit,GRIPPER_OPEN
+Widening gripper fingers,GRIPPER_OPEN
+Separate gripper jaws,GRIPPER_OPEN
+Decompress gripper,GRIPPER_OPEN
+Unlock gripper jaws,GRIPPER_OPEN
+Disengage gripper,GRIPPER_OPEN
+Open gripper to drop the part,GRIPPER_OPEN
+Release claw to let go,GRIPPER_OPEN
+Unclamp hand to drop the item,GRIPPER_OPEN
+Spread fingers to release the tool,GRIPPER_OPEN
+Open gripper to drop the payload,GRIPPER_OPEN
+Release gripper to drop the package,GRIPPER_OPEN
+Unclamp gripper to drop the cup,GRIPPER_OPEN
+Spread gripper to drop the block,GRIPPER_OPEN
+Open claw to drop the ball,GRIPPER_OPEN
+Release hand to drop the pen,GRIPPER_OPEN
+Hey robot please open your gripper,GRIPPER_OPEN
+Okay buddy gripper open,GRIPPER_OPEN
+Can you please release the claw now,GRIPPER_OPEN
+It is time to unclamp the gripper,GRIPPER_OPEN
+Let us spread the gripper jaws,GRIPPER_OPEN
+We need to open the robot hand,GRIPPER_OPEN
+You should release your end effector,GRIPPER_OPEN
+I would like you to open the mechanical claw,GRIPPER_OPEN
+My request is for you to unclamp the hand,GRIPPER_OPEN
+Your next task is to open the gripper fingers,GRIPPER_OPEN
+Command execute gripper open routine,GRIPPER_OPEN
+Instruction set gripper to open mode,GRIPPER_OPEN
+System initiate gripper release drive,GRIPPER_OPEN
+Robot open gripper to maximum width,GRIPPER_OPEN
+Open gripper at low speed,GRIPPER_OPEN
+Release gripper at medium speed,GRIPPER_OPEN
+Unclamp gripper at high speed,GRIPPER_OPEN
+Spread gripper at half speed,GRIPPER_OPEN
+Open claw at full speed,GRIPPER_OPEN
+Open gripper at a steady pace,GRIPPER_OPEN
+Release gripper with constant velocity,GRIPPER_OPEN
+Unclamp gripper with positive acceleration,GRIPPER_OPEN
+Spread gripper smoothly,GRIPPER_OPEN
+Open hand without stopping,GRIPPER_OPEN
+Open gripper once more,GRIPPER_OPEN
+Release gripper again,GRIPPER_OPEN
+Unclamp gripper another time,GRIPPER_OPEN
+Spread gripper as before,GRIPPER_OPEN
+Resume gripper opening,GRIPPER_OPEN
+Restart gripper release,GRIPPER_OPEN
+Continue your gripper open path,GRIPPER_OPEN
+Open gripper like you were doing,GRIPPER_OPEN
+Open gripper horizontally,GRIPPER_OPEN
+Spread jaws along the lateral axis,GRIPPER_OPEN
+Open claw on this trajectory,GRIPPER_OPEN
+Release gripper straight,GRIPPER_OPEN
+Open hand in this direction,GRIPPER_OPEN
+Head gripper to open state toward target,GRIPPER_OPEN
+Open gripper to prepare for pickup,GRIPPER_OPEN
+Release claw to fit around the box,GRIPPER_OPEN
+Unclamp hand to encompass the object,GRIPPER_OPEN
+Spread fingers to get ready to grab,GRIPPER_OPEN
+Open gripper to slide onto the rail,GRIPPER_OPEN
+Please open gripper to clear the item,GRIPPER_OPEN
+Release gripper to avoid binding,GRIPPER_OPEN
+Unclamp gripper to allow free movement,GRIPPER_OPEN
+Spread gripper to match object size,GRIPPER_OPEN
+Open claw to check the mechanism,GRIPPER_OPEN
+Release hand to reset the fingers,GRIPPER_OPEN
+Unclamp gripper to test the motor,GRIPPER_OPEN
+Spread jaws to full capacity,GRIPPER_OPEN
+Open gripper to clear the workspace,GRIPPER_OPEN
+Release gripper to verify empty state,GRIPPER_OPEN
+Open gripper until you hit the stops,GRIPPER_OPEN
+Release claw until sensor says clear,GRIPPER_OPEN
+Unclamp hand until completely relaxed,GRIPPER_OPEN
+Spread fingers until fully apart,GRIPPER_OPEN
+Open gripper until zero pressure,GRIPPER_OPEN
+Open gripper to the full width setting,GRIPPER_OPEN
+Release claw to the wide position,GRIPPER_OPEN
+Unclamp hand to the ready state,GRIPPER_OPEN
+Spread gripper to the outer marker,GRIPPER_OPEN
+Open gripper to the designated width,GRIPPER_OPEN
+Open gripper according to specifications,GRIPPER_OPEN
+Release claw as per calibration,GRIPPER_OPEN
+Unclamp hand on the control layout,GRIPPER_OPEN
+Spread gripper based on system settings,GRIPPER_OPEN
+Open gripper to the prescribed distance,GRIPPER_OPEN
+Open gripper toward the object edges,GRIPPER_OPEN
+Release claw toward the exterior limits,GRIPPER_OPEN
+Unclamp hand toward the side brackets,GRIPPER_OPEN
+Spread gripper toward the boundary lines,GRIPPER_OPEN
+Open gripper toward the guide pins,GRIPPER_OPEN
+Open gripper into the open workspace,GRIPPER_OPEN
+Release claw into the free zone,GRIPPER_OPEN
+Unclamp hand into the standby state,GRIPPER_OPEN
+Spread fingers into the wide configuration,GRIPPER_OPEN
+Open gripper into the ready position,GRIPPER_OPEN
+Open gripper with tiny movements,GRIPPER_OPEN
+Release claw with small adjustments,GRIPPER_OPEN
+Unclamp hand with a gentle release,GRIPPER_OPEN
+Spread gripper by a tiny fraction,GRIPPER_OPEN
+Open gripper by a small step,GRIPPER_OPEN
+Open gripper one unit,GRIPPER_OPEN
+Release claw two units,GRIPPER_OPEN
+Unclamp hand three units,GRIPPER_OPEN
+Spread gripper four units,GRIPPER_OPEN
+Open gripper five units,GRIPPER_OPEN
+Open gripper along the slide guide,GRIPPER_OPEN
+Release claw through the latch mechanism,GRIPPER_OPEN
+Unclamp hand along the knuckle joints,GRIPPER_OPEN
+Spread gripper via the actuator arm,GRIPPER_OPEN
+Open gripper through the motorized rack,GRIPPER_OPEN
+Gripper close,GRIPPER_CLOSE
+Close gripper,GRIPPER_CLOSE
+Clamp gripper,GRIPPER_CLOSE
+Grip gripper,GRIPPER_CLOSE
+Grasp gripper,GRIPPER_CLOSE
+Squeeze gripper,GRIPPER_CLOSE
+Close claw,GRIPPER_CLOSE
+Clamp claw,GRIPPER_CLOSE
+Grip claw,GRIPPER_CLOSE
+Grasp claw,GRIPPER_CLOSE
+Squeeze claw,GRIPPER_CLOSE
+Close hand,GRIPPER_CLOSE
+Clamp hand,GRIPPER_CLOSE
+Grip hand,GRIPPER_CLOSE
+Grasp hand,GRIPPER_CLOSE
+Squeeze hand,GRIPPER_CLOSE
+Close the fingers,GRIPPER_CLOSE
+Clamp the fingers,GRIPPER_CLOSE
+Grip the fingers,GRIPPER_CLOSE
+Grasp the fingers,GRIPPER_CLOSE
+Squeeze the fingers,GRIPPER_CLOSE
+Close the end effector,GRIPPER_CLOSE
+Clamp the end effector,GRIPPER_CLOSE
+Grip the end effector,GRIPPER_CLOSE
+Grasp the end effector,GRIPPER_CLOSE
+Squeeze the end effector,GRIPPER_CLOSE
+Please gripper close,GRIPPER_CLOSE
+Please close gripper,GRIPPER_CLOSE
+Please clamp gripper,GRIPPER_CLOSE
+Please grip gripper,GRIPPER_CLOSE
+Kindly close the claw,GRIPPER_CLOSE
+Could you grasp with the claw,GRIPPER_CLOSE
+Could you close the gripper jaws,GRIPPER_CLOSE
+Would you mind clamping the gripper,GRIPPER_CLOSE
+Can you close the hand for me,GRIPPER_CLOSE
+I need you to close gripper,GRIPPER_CLOSE
+I want you to clamp gripper,GRIPPER_CLOSE
+Please continue closing gripper,GRIPPER_CLOSE
+Keep closing gripper,GRIPPER_CLOSE
+Keep clamping gripper jaws,GRIPPER_CLOSE
+Continue squeezing gripper,GRIPPER_CLOSE
+Maintain closing motion on gripper,GRIPPER_CLOSE
+Close gripper slowly,GRIPPER_CLOSE
+Clamp gripper carefully,GRIPPER_CLOSE
+Grip gripper with caution,GRIPPER_CLOSE
+Squeeze gripper fingers gently,GRIPPER_CLOSE
+Gripper close a little bit,GRIPPER_CLOSE
+Close gripper just a bit,GRIPPER_CLOSE
+Clamp gripper slightly,GRIPPER_CLOSE
+Grip gripper a short distance,GRIPPER_CLOSE
+Squeeze gripper a couple of inches,GRIPPER_CLOSE
+Close gripper ten millimeters,GRIPPER_CLOSE
+Clamp claw five centimeters,GRIPPER_CLOSE
+Close hand twenty percent,GRIPPER_CLOSE
+Clamp jaws thirty percent,GRIPPER_CLOSE
+Squeeze fingers fifty percent,GRIPPER_CLOSE
+Slowly close the end effector,GRIPPER_CLOSE
+Gently clamp the mechanical claw,GRIPPER_CLOSE
+Gradually grasp with robot hand,GRIPPER_CLOSE
+Smoothly squeeze gripper fingers,GRIPPER_CLOSE
+Initiate gripper closing,GRIPPER_CLOSE
+Start closing gripper,GRIPPER_CLOSE
+Begin clamping claw,GRIPPER_CLOSE
+Activate gripper grip,GRIPPER_CLOSE
+Execute claw grasp,GRIPPER_CLOSE
+Set gripper state to closed,GRIPPER_CLOSE
+Close gripper until I say stop,GRIPPER_CLOSE
+Keep closing gripper until further notice,GRIPPER_CLOSE
+Continue closing claw until fully tightened,GRIPPER_CLOSE
+Clamp gripper until the object is secure,GRIPPER_CLOSE
+Squeeze gripper until the force sensor triggers,GRIPPER_CLOSE
+Close gripper continuously,GRIPPER_CLOSE
+Clamp claw indefinitely,GRIPPER_CLOSE
+Retract gripper jaws inward,GRIPPER_CLOSE
+Drive gripper to close state,GRIPPER_CLOSE
+Keep driving gripper closed,GRIPPER_CLOSE
+Adjust gripper to closed position,GRIPPER_CLOSE
+Shift gripper jaws together,GRIPPER_CLOSE
+Position gripper narrower,GRIPPER_CLOSE
+Set gripper to a narrower stance,GRIPPER_CLOSE
+Change gripper state to fully closed,GRIPPER_CLOSE
+Move gripper jaws to inner limit,GRIPPER_CLOSE
+Narrowing gripper fingers,GRIPPER_CLOSE
+Bring gripper jaws together,GRIPPER_CLOSE
+Compress gripper,GRIPPER_CLOSE
+Lock gripper jaws,GRIPPER_CLOSE
+Engage gripper,GRIPPER_CLOSE
+Close gripper to pick up the part,GRIPPER_CLOSE
+Clamp claw to hold tight,GRIPPER_CLOSE
+Grip hand to secure the item,GRIPPER_CLOSE
+Grasp fingers to lift the tool,GRIPPER_CLOSE
+Squeeze gripper to hold the payload,GRIPPER_CLOSE
+Close gripper on the package,GRIPPER_CLOSE
+Clamp gripper around the cup,GRIPPER_CLOSE
+Grip gripper onto the block,GRIPPER_CLOSE
+Grasp claw onto the ball,GRIPPER_CLOSE
+Squeeze hand around the pen,GRIPPER_CLOSE
+Hey robot please close your gripper,GRIPPER_CLOSE
+Okay buddy gripper close,GRIPPER_CLOSE
+Can you please clamp the claw now,GRIPPER_CLOSE
+It is time to grip the object,GRIPPER_CLOSE
+Let us close the gripper jaws,GRIPPER_CLOSE
+We need to shut the robot hand,GRIPPER_CLOSE
+You should engage your end effector,GRIPPER_CLOSE
+I would like you to close the mechanical claw,GRIPPER_CLOSE
+My request is for you to clamp the hand,GRIPPER_CLOSE
+Your next task is to close the gripper fingers,GRIPPER_CLOSE
+Command execute gripper close routine,GRIPPER_CLOSE
+Instruction set gripper to close mode,GRIPPER_CLOSE
+System initiate gripper clamp drive,GRIPPER_CLOSE
+Robot close gripper to secure the load,GRIPPER_CLOSE
+Close gripper at low speed,GRIPPER_CLOSE
+Clamp gripper at medium speed,GRIPPER_CLOSE
+Grip gripper at high speed,GRIPPER_CLOSE
+Grasp with gripper at half speed,GRIPPER_CLOSE
+Close claw at full speed,GRIPPER_CLOSE
+Close gripper at a steady pace,GRIPPER_CLOSE
+Clamp gripper with constant velocity,GRIPPER_CLOSE
+Grip gripper with positive acceleration,GRIPPER_CLOSE
+Squeeze gripper smoothly,GRIPPER_CLOSE
+Close hand without stopping,GRIPPER_CLOSE
+Close gripper once more,GRIPPER_CLOSE
+Clamp gripper again,GRIPPER_CLOSE
+Grip gripper another time,GRIPPER_CLOSE
+Squeeze gripper as before,GRIPPER_CLOSE
+Resume gripper closing,GRIPPER_CLOSE
+Restart gripper clamp,GRIPPER_CLOSE
+Continue your gripper close path,GRIPPER_CLOSE
+Close gripper like you were doing,GRIPPER_CLOSE
+Close gripper horizontally,GRIPPER_CLOSE
+Bring jaws together along the lateral axis,GRIPPER_CLOSE
+Close claw on this trajectory,GRIPPER_CLOSE
+Clamp gripper straight,GRIPPER_CLOSE
+Close hand in this direction,GRIPPER_CLOSE
+Head gripper to close state toward object,GRIPPER_CLOSE
+Close gripper to prepare for lift,GRIPPER_CLOSE
+Clamp claw to fit tight on the box,GRIPPER_CLOSE
+Grip hand to hold the object tight,GRIPPER_CLOSE
+Grasp fingers to secure the grab,GRIPPER_CLOSE
+Squeeze gripper to hold the handle,GRIPPER_CLOSE
+Please close gripper to secure the item,GRIPPER_CLOSE
+Clamp gripper to avoid dropping,GRIPPER_CLOSE
+Grip gripper to allow safe lift,GRIPPER_CLOSE
+Grasp gripper to match object size exactly,GRIPPER_CLOSE
+Squeeze claw to verify the hold,GRIPPER_CLOSE
+Close hand to secure the tool,GRIPPER_CLOSE
+Clamp gripper to check force limits,GRIPPER_CLOSE
+Grip jaws to full pressure capability,GRIPPER_CLOSE
+Grasp gripper to secure the payload inside,GRIPPER_CLOSE
+Squeeze gripper to verify firm contact,GRIPPER_CLOSE
+Close gripper until you hit object resistance,GRIPPER_CLOSE
+Clamp claw until force limit is reached,GRIPPER_CLOSE
+Grip hand until secure touch is confirmed,GRIPPER_CLOSE
+Grasp fingers until fully locked,GRIPPER_CLOSE
+Squeeze gripper until torque threshold is achieved,GRIPPER_CLOSE
+Close gripper to the standard width setting,GRIPPER_CLOSE
+Clamp claw to the locked position,GRIPPER_CLOSE
+Grip hand to the holding state,GRIPPER_CLOSE
+Grasp gripper to the inner marker,GRIPPER_CLOSE
+Squeeze gripper to the designated force level,GRIPPER_CLOSE
+Close gripper according to specifications,GRIPPER_CLOSE
+Clamp claw as per calibration limits,GRIPPER_CLOSE
+Grip hand on the control layout,GRIPPER_CLOSE
+Grasp gripper based on system settings,GRIPPER_CLOSE
+Squeeze gripper to the prescribed pressure,GRIPPER_CLOSE
+Close gripper toward the object surface,GRIPPER_CLOSE
+Clamp claw toward the inner limits,GRIPPER_CLOSE
+Grip hand toward the center post,GRIPPER_CLOSE
+Grasp gripper toward the object boundaries,GRIPPER_CLOSE
+Squeeze gripper toward the central fixture,GRIPPER_CLOSE
+Close gripper into the active workspace,GRIPPER_CLOSE
+Clamp claw into the holding zone,GRIPPER_CLOSE
+Grip hand into the operational state,GRIPPER_CLOSE
+Grasp fingers into the secure configuration,GRIPPER_CLOSE
+Squeeze gripper into the locked position,GRIPPER_CLOSE
+Close gripper with tiny movements,GRIPPER_CLOSE
+Clamp claw with small force steps,GRIPPER_CLOSE
+Grip hand with a gentle hold,GRIPPER_CLOSE
+Grasp gripper by a tiny fraction,GRIPPER_CLOSE
+Squeeze gripper by a small step,GRIPPER_CLOSE
+Close gripper one unit,GRIPPER_CLOSE
+Clamp claw two units,GRIPPER_CLOSE
+Grip hand three units,GRIPPER_CLOSE
+Grasp gripper four units,GRIPPER_CLOSE
+Squeeze gripper five units,GRIPPER_CLOSE
+Close gripper along the slide guide,GRIPPER_CLOSE
+Clamp claw through the latch mechanism,GRIPPER_CLOSE
+Grip hand along the knuckle joints,GRIPPER_CLOSE
+Grasp gripper via the actuator arm,GRIPPER_CLOSE
+Squeeze gripper through the motorized rack,GRIPPER_CLOSE
+Stop,STOP
+Halt,STOP
+Freeze,STOP
+Hold position,STOP
+Remain still,STOP
+Cease movement,STOP
+Pause,STOP
+Do not move,STOP
+Stay where you are,STOP
+Abort movement,STOP
+Emergency stop,STOP
+E stop,STOP
+Cut power,STOP
+Kill motion,STOP
+Disengage drive,STOP
+Stand still,STOP
+Hold still,STOP
+Cancel action,STOP
+Abort task,STOP
+Terminate operation,STOP
+Stop right now,STOP
+Halt immediately,STOP
+Freeze right there,STOP
+Hold your position now,STOP
+Remain perfectly still,STOP
+Cease all movement,STOP
+Pause current action,STOP
+Do not move at all,STOP
+Stay exactly where you are,STOP
+Abort all movement,STOP
+Please stop,STOP
+Please halt,STOP
+Please freeze,STOP
+Please hold position,STOP
+Kindly cease movement,STOP
+Could you pause,STOP
+Could you stop the robot,STOP
+Would you mind staying still,STOP
+Can you abort movement for me,STOP
+I need you to stop,STOP
+I want you to halt,STOP
+Please stop moving,STOP
+Keep holding position,STOP
+Keep remaining still,STOP
+Continue to stay still,STOP
+Maintain static position,STOP
+Stop moving slowly,STOP
+Halt carefully,STOP
+Freeze with caution,STOP
+Hold position gently,STOP
+Stop a little bit,STOP
+Halt just a bit,STOP
+Freeze slightly,STOP
+Pause a short duration,STOP
+Stop for a couple of seconds,STOP
+Stop right here,STOP
+Halt at this spot,STOP
+Freeze at this location,STOP
+Hold position at this marker,STOP
+Remain still at this line,STOP
+Slowly come to a stop,STOP
+Gently halt,STOP
+Gradually freeze,STOP
+Smoothly cease movement,STOP
+Initiate stop sequence,STOP
+Start halting,STOP
+Begin freezing,STOP
+Activate emergency stop,STOP
+Execute halt command,STOP
+Set state to idle,STOP
+Stop until I say go,STOP
+Keep holding position until further notice,STOP
+Continue staying still until cleared,STOP
+Pause until the path is safe,STOP
+Remain still until an operator intervenes,STOP
+Stop continuously,STOP
+Halt indefinitely,STOP
+Lock wheels,STOP
+Brake now,STOP
+Apply brakes,STOP
+Engage brakes,STOP
+Keep braking,STOP
+Anchor position,STOP
+Secure position,STOP
+Park robot,STOP
+Set park mode,STOP
+Enter standby mode,STOP
+Go to sleep state,STOP
+Turn off motors,STOP
+Disable actuators,STOP
+Deactivate drive system,STOP
+Stop everything,STOP
+Halt all functions,STOP
+Freeze all joints,STOP
+Hold all axes,STOP
+Cease all operations,STOP
+Stop the motor,STOP
+Halt the wheels,STOP
+Freeze the arm,STOP
+Hold the gripper,STOP
+Pause the chassis,STOP
+Hey robot please stop,STOP
+Okay buddy halt,STOP
+Can you please freeze now,STOP
+It is time to stop,STOP
+Let us halt here,STOP
+We need to stop moving,STOP
+You should hold position,STOP
+I would like you to cease movement,STOP
+My request is for you to stop,STOP
+Your next task is to halt,STOP
+Command execute stop immediately,STOP
+Instruction set drive to stationary,STOP
+System initiate emergency halt,STOP
+Robot freeze all functions,STOP
+Stop at once,STOP
+Halt right there,STOP
+Freeze on the spot,STOP
+Hold position instantly,STOP
+Remain still immediately,STOP
+Stop without delay,STOP
+Halt without exception,STOP
+Freeze without fail,STOP
+Hold position without hesitation,STOP
+Remain still without moving,STOP
+Stop once more,STOP
+Halt again,STOP
+Freeze another time,STOP
+Hold position as before,STOP
+Resume stationary state,STOP
+Restart stop sequence,STOP
+Continue your standstill,STOP
+Stop like you were doing,STOP
+Come to a complete stop,STOP
+Bring everything to a halt,STOP
+Freeze on this spot,STOP
+Hold position right here,STOP
+Remain still on this vector,STOP
+Stop along the path,STOP
+Halt in the corridor,STOP
+Freeze down the hallway,STOP
+Hold position across the floor,STOP
+Remain still in the open space,STOP
+Cease movement in the designated area,STOP
+Stop carefully to avoid collisions,STOP
+Please halt to clear the danger,STOP
+Freeze to make room,STOP
+Hold position to get a steady look,STOP
+Remain still to inspect the item,STOP
+Cease movement to shorten danger risk,STOP
+Stop to close the loop,STOP
+Halt to reduce errors,STOP
+Freeze to minimize risk,STOP
+Hold position to reach safety,STOP
+Stop until you are safe,STOP
+Halt until you are cleared,STOP
+Freeze until you arrive at safety,STOP
+Hold position until you are ready,STOP
+Remain still until instructions arrive,STOP
+Stop to align your base safely,STOP
+Halt to center your balance,STOP
+Freeze to adjust your sensors,STOP
+Hold position to calibrate systems,STOP
+Remain still to verify data,STOP
+Stop as per safety protocols,STOP
+Halt according to guidelines,STOP
+Freeze on the safety grid,STOP
+Hold position along the coordinates,STOP
+Remain still on the specified route,STOP
+Cease movement on the current vector,STOP
+Stop at the target zone,STOP
+Halt at the charging station,STOP
+Freeze at the docking area,STOP
+Hold position at the inspection point,STOP
+Remain still at the drop-off location,STOP
+Cease movement at the pickup spot,STOP
+Stop before the main entrance,STOP
+Halt before the exit sign,STOP
+Freeze before the lights,STOP
+Hold position before the sensor marker,STOP
+Remain still before the camera view,STOP
+Stop inside the scanning field,STOP
+Halt inside the workspace,STOP
+Freeze inside the center room,STOP
+Hold position inside the designated lane,STOP
+Remain still inside the storage unit,STOP
+Stop with absolute precision,STOP
+Halt with minimal drift,STOP
+Freeze with a sudden lock,STOP
+Hold position without slipping,STOP
+Remain still without a shudder,STOP
+Stop one time,STOP
+Halt two times,STOP
+Freeze three times,STOP
+Hold position four times,STOP
+Remain still five times,STOP
+Stop along the centerline,STOP
+Halt down the main path,STOP
+Freeze on the track,STOP
+Hold position via the straight route,STOP
+Remain still through the clear opening,STOP
